@@ -1,0 +1,67 @@
+.navbar-inverse{
+	background: grey;
+	color:black;
+} /*Changes the background of the navbar...*/
+
+.navbar-inverse .navbar-brand{
+	color:#600968;
+	font-family: 'Pacifico', cursive;
+	font-size:200%;
+} /*Changes things with the title of the page ("Emelie's hemsida")*/
+
+.navbar-inverse .navbar-nav > li > a{
+	color:white;
+	text-decoration: bold;
+	font-family: 'Varela Round', sans-serif;
+	font-size:150%;
+} /*Changes things with the rest of the menu-items*/
+
+.centered-text{
+	text-align: center;
+}
+
+.centered-list{
+	width:40%;
+	float:center;
+	margin-left:25%;
+}
+
+img{
+	width:400px;
+}
+
+.centered-body{
+	width:80%;
+	background: #d1baca;
+	margin-left:10%;
+	height:700px;
+}
+
+/*.centered-text ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+}*/
+
+li{
+	text-align: center;
+}
+
+body{
+	background: #44003f;
+}
+
+p{
+	font-family: 'Varela Round', sans-serif;
+	color:#424242;
+}
+
+h1{
+	font-family: 'Varela Round', sans-serif;
+	color:#600968;
+}
+
+h3{
+	font-family: 'Varela Round', sans-serif;
+	color:#424242;
+}
